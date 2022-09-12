@@ -1,0 +1,16 @@
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\JSONParser.exe
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\JSONParser.deps.json
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\JSONParser.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\JSONParser.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\JSONParser.dll
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\JSONParser.pdb
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.dll
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.pdb
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.genruntimeconfig.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JSONParser\obj\Debug\netcoreapp3.1\JSONParser.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4bZ4myzJEbxWPMgNwrpl81zaaf9FW0h1jeQB0+AaqFC1KCIV27wpYf7jkJHVH6iFnWlEgPK2oWt7elXqlzAgbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\Documents\\GitHub\\Projects\\CSharp\\JSONParser\\JSONParser\\JSONParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

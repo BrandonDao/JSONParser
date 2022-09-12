@@ -1,0 +1,16 @@
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\bin\Debug\netcoreapp3.1\JsonVisualizer.exe
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\bin\Debug\netcoreapp3.1\JsonVisualizer.deps.json
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\bin\Debug\netcoreapp3.1\JsonVisualizer.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\bin\Debug\netcoreapp3.1\JsonVisualizer.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\bin\Debug\netcoreapp3.1\JsonVisualizer.dll
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\bin\Debug\netcoreapp3.1\JsonVisualizer.pdb
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.Form1.resources
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.csproj.GenerateResource.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.dll
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.pdb
+C:\Users\brand\Documents\GitHub\Projects\cSharp\JSONParser\JsonVisualizer\obj\Debug\netcoreapp3.1\JsonVisualizer.genruntimeconfig.cache
